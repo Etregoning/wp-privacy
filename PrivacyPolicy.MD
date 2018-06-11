@@ -141,7 +141,11 @@
    Your name will also be used in reports, in order to identify who sent the report. Report data will 
    be stored on our server at 42 Silicon Valley through a safe and secure connection. 
 
-  9.1: Contacting Us   
+  9.1: Use of images from camera gallery
+    Our app uses images from your camera gallery to ensure accuracy of included reports. Only the images
+    you submit in reports will be uploaded to our server.
+
+  10.1: Contacting Us   
 
   If there are any questions regarding this privacy policy, you may contact us using the information below.   
 
